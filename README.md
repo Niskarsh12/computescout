@@ -96,4 +96,3 @@ src/
 
 MIT
 
-MIT
